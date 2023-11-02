@@ -21,3 +21,4 @@ class WeatherWin(QMainWindow, form_class):
 if __name__== '__main__':
     app = QApplication(sys.argv)
     win = WeatherWin()
+
